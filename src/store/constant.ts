@@ -1,0 +1,31 @@
+export const gridSpacing = 3;
+export const drawerWidth = 320;
+export const padding24 = "24px"
+export const frontDate = "dd MMM, yyyy"
+export const alertDuration = 2000;
+
+// color constant
+export const primaryLight = "#FFFFFF";
+export const primaryDark = "#000000";
+export const error = "#E90714";
+export const orangeMain = "#F8B500";
+export const tableHeaderBackground = "#F7F7F7";
+export const lineGray = "#E3E3E3";
+export const primaryGreen = "#2CB44A";
+export const green15 = "rgba(44, 180, 74, 0.15)";
+export const primaryGray = "#5B5B5B";
+export const gray14 = "rgba(142, 142, 142, 0.14)";
+export const tabBackground = "rgba(190, 190, 190, 0.14)";
+export const tabUnderline = "rgba(239, 239, 239, 1)";
+export const mainBackground = "rgba(238, 238, 238, 0.6)";
+export const tabBoxColor = "rgba(190, 190, 190, 0.14)";
+export const orange14 = "rgba(248, 181, 0, 0.14)";
+export const backgroundGray1 = "#E9EFF4";
+export const kbDarkGray = "#534F42";
+export const secondaryKbDarkGray = "#7D7366";
+export const blueMain = "#2F80ED";
+export const blue14 = "rgba(47, 128, 237, 0.14)";
+export const pinkMain = "rgb(165, 47, 237)";
+export const pink14 = "rgba(165, 47, 237, 0.14)";
+export const backBtnBackground = "#333333";
+export const disableColor = "rgba(190, 190, 190, 1)";

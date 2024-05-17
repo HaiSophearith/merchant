@@ -1,0 +1,57 @@
+@font-face {
+  font-family: "KBPRASACBeta-Black";
+  src: url("../src/assets/fonts/KBPRASACBeta-Black.woff") format("woff");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Black";
+  src: url("../src/assets/fonts/KBPRASACBeta-Black.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Bold";
+  src: url("../src/assets/fonts/KBPRASACBeta-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Bold";
+  src: url("../src/assets/fonts/KBPRASACBeta-Bold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Medium";
+  src: url("../src/assets/fonts/KBPRASACBeta-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Medium";
+  src: url("../src/assets/fonts/KBPRASACBeta-Medium.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Regular";
+  src: url("../src/assets/fonts/KBPRASACBeta-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-Regular";
+  src: url("../src/assets/fonts/KBPRASACBeta-Regular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-SemiBold";
+  src: url("../src/assets/fonts/KBPRASACBeta-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "KBPRASACBeta-SemiBold";
+  src: url("../src/assets/fonts/KBPRASACBeta-SemiBold.woff2") format("woff2");
+}
+
+body {
+  font-family: Inter;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+}
